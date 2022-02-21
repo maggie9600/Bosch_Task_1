@@ -1,0 +1,4 @@
+C:/Users/mahes/Downloads/CMake final test/build/CMakeFiles/CustomLib.dir
+C:/Users/mahes/Downloads/CMake final test/build/CMakeFiles/calc.dir
+C:/Users/mahes/Downloads/CMake final test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mahes/Downloads/CMake final test/build/CMakeFiles/ZERO_CHECK.dir
