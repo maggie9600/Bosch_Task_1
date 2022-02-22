@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/calc.dir/main.cpp.o -o calc  libCustomLib.a 

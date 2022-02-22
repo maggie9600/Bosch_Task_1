@@ -1,4 +1,4 @@
-C:/Users/mahes/Downloads/CMake final test/build/CMakeFiles/CustomLib.dir
-C:/Users/mahes/Downloads/CMake final test/build/CMakeFiles/calc.dir
-C:/Users/mahes/Downloads/CMake final test/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/mahes/Downloads/CMake final test/build/CMakeFiles/ZERO_CHECK.dir
+/home/n051n/Downloads/CMake Task/build/CMakeFiles/CustomLib.dir
+/home/n051n/Downloads/CMake Task/build/CMakeFiles/calc.dir
+/home/n051n/Downloads/CMake Task/build/CMakeFiles/edit_cache.dir
+/home/n051n/Downloads/CMake Task/build/CMakeFiles/rebuild_cache.dir

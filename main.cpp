@@ -8,7 +8,7 @@ int main(int argc, char *argv[]){
     int b = atoi(argv[2]);
     int c = sum( a, b );
 
-    cout<<c;
+    cout<<c<<"\n";
 
     return 0;
 }
