@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCustomLib.a CMakeFiles/CustomLib.dir/math.cpp.o
+/usr/bin/ranlib libCustomLib.a

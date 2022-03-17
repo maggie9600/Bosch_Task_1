@@ -1,0 +1,4 @@
+/home/n051n/Downloads/Gtest/build/CMakeFiles/CustomLib.dir
+/home/n051n/Downloads/Gtest/build/CMakeFiles/Gtest.dir
+/home/n051n/Downloads/Gtest/build/CMakeFiles/edit_cache.dir
+/home/n051n/Downloads/Gtest/build/CMakeFiles/rebuild_cache.dir

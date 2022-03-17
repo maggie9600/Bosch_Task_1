@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Gtest.dir/googletest.cpp.o -o Gtest  libCustomLib.a -lgtest -lgtest_main 
